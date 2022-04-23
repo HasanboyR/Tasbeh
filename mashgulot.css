@@ -1,0 +1,192 @@
+
+
+
+body{
+  background-repeat: no-repeat;
+  background-size: 1000px;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+.radius{
+  color: blue;
+  background-color: greenyellow;
+  text-align: center;
+  border-radius: 100px;
+  border: 50px;
+  margin-top: 50px;
+  margin-left: 40px;
+  margin-right: 70px;
+  padding-top: 50px;
+  padding-left: 0px;
+  padding-bottom: 50px;
+  font-size: 50px;
+  background-image: url("651.jpg");
+  background-size: 300px;
+  background-repeat: no-repeat;
+  
+  
+  
+}
+
+
+.tugma{
+  
+  
+  margin-top: 150px;
+  padding-left: 30px;
+  padding-top: 15px;
+  padding-right: 30px;
+  padding-bottom: 15px;
+  border: none;
+  background-color: #f7f7f7;
+  box-shadow: grey 4px 2px 2px;
+  /* background-image: url("rasm.jpg"); */
+  color: mediumblue;
+  background-size: 140px;
+  border-radius: 50px;
+  font-size: 20px;
+  background-repeat: no-repeat;
+  
+  
+  
+  
+}
+.tugma:hover{
+  background-color: green;
+  color: darkred;
+  transition: 2s;
+  box-shadow: none;
+}
+.cont{
+  width: 400px;
+  display: inline-block;
+  margin: auto!important;
+  background-image: url("rasm.jpeg");
+  padding: 150px 50px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 55px!important;
+  border-radius: 15px;
+}
+/* @media (min-width:768px) and (max-width:1023px) {
+  body{
+  background-image: url("rasm.jpeg");
+  background-repeat: no-repeat;
+  background-size: 2500px;
+}
+
+
+
+
+
+
+
+
+.radius{
+  color: blue;
+  background-color: greenyellow;
+  text-align: center;
+  border-radius: 100px;
+  border: 50px;
+  margin-top: 50px;
+  margin-left: 40px;
+  margin-right: 50px;
+  padding-top: 100px;
+  padding-left: 50px;
+  padding-bottom: 100px;
+  font-size: 90px;
+  background-image: url("651.jpg");
+  background-size: 900px;
+  background-repeat: no-repeat;
+  
+  
+  
+}
+
+}
+
+
+.tugma{
+  
+  
+  margin-top: 600px;
+  margin-left: 310px;
+  padding-left: 80px;
+  padding-top: 60px;
+  padding-right: 80px;
+  padding-bottom: 60px;
+  background-image: url("rasm.jpg");
+  color: blue;
+  background-size: 335px;
+  border-radius: 100px;
+  font-size: 45px;
+  background-repeat: no-repeat;
+  }
+}
+
+@media  (min-width:1024px) {
+ /* body{
+    background-image: url("rasm.jpeg");
+    background-repeat: no-repeat;
+    background-size: 2000px;
+  }
+  */
+  
+  
+  
+  
+  
+  
+  
+  /*.radius{
+    color: blue;
+    background-color: greenyellow;
+    
+    border-radius: 100px;
+    margin: 0 auto;
+    border: 50px;
+    margin-top: 50px;
+    margin-left: 500px;
+    margin-right: 0px;
+    padding-top: 100px;
+   
+    padding-bottom: 100px;
+    font-size: 50px;
+    background-image: url("651.jpg");
+    background-size: 900px;
+    background-repeat: no-repeat;
+    width: 50rem;
+    
+    
+    
+    
+  }
+  
+  
+  .tugma{
+    
+    
+    margin-top: 600px;
+    margin-left: 310px;
+    padding-left: 80px;
+    padding-top: 60px;
+    padding-right: 80px;
+    padding-bottom: 60px;
+    background-image: url("rasm.jpg");
+    color: blue;
+    background-size: 335px;
+    border-radius: 100px;
+    font-size: 45px;
+    background-repeat: no-repeat;
+    }*/
+
+
+
+  } */
