@@ -15,7 +15,8 @@ body{
 
 
 .radius{
-  color: blue;
+  color: whitesmoke;
+  font-weight: 800;
   background-color: greenyellow;
   text-align: center;
   border-radius: 100px;
