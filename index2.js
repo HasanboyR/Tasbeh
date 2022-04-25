@@ -18,7 +18,7 @@ const button = document.querySelector("button");
 let h1 = document.querySelector('.radius')
 let a = 0;
 let s = 0;
-button.addEventListener('click', function() {
+function a(){
   a += 1;
   if (a==33) {
     a=0
@@ -38,12 +38,11 @@ button.addEventListener('click', function() {
   }
   
   h1.innerHTML = a;
+}
+button.addEventListener('click', function() {
+  a();
 });
 document.addEventListener('keypress', function() {
-  a += 1;
-  if (a==33) {
-    a=0
-  }
-  h1.innerHTML = a;
+  a();
 });
 
