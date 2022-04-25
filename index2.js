@@ -13,15 +13,30 @@ buton.addEventListener('cilck',
 
 
   
-
+let h4 = document.querySelector("h4");
 const button = document.querySelector("button");
 let h1 = document.querySelector('.radius')
 let a = 0;
+let s = 0;
 button.addEventListener('click', function() {
   a += 1;
   if (a==33) {
     a=0
+    s += 1
   }
+  if (s==0) {
+    h4.innerHTML='Subhanalloh'
+  }
+  if (s==1) {
+    h4.innerHTML='Alhamdulillah'
+  }
+  if (s==2) {
+    h4.innerHTML='Allohu Akbar'
+  }
+  if (s==3) {
+    s=0
+  }
+  
   h1.innerHTML = a;
 });
 document.addEventListener('keypress', function() {

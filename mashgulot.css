@@ -22,8 +22,8 @@ body{
   border-radius: 100px;
   border: 50px;
   margin-top: 50px;
-  margin-left: 40px;
-  margin-right: 70px;
+  margin-left: 50px;
+  margin-right: 50px;
   padding-top: 50px;
   padding-left: 0px;
   padding-bottom: 50px;
@@ -76,6 +76,38 @@ body{
   margin-top: 55px!important;
   border-radius: 15px;
 }
+
+
+.nom{
+background-color: #f7f7f7;
+padding-top: 20px;
+padding-bottom: 12px;
+margin-left: 50px;
+margin-right: 50px;
+margin-bottom: 100px;
+border-radius: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* @media (min-width:768px) and (max-width:1023px) {
   body{
   background-image: url("rasm.jpeg");
@@ -190,4 +222,4 @@ body{
 
 
 
-  } */
+
